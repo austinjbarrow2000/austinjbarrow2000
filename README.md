@@ -15,9 +15,6 @@
 
 - Matlab, Python, Java, C, Javascript, HTML, CSS, React, Perl
 
-<br />
-<br />
-
 ---
 
 <details>
