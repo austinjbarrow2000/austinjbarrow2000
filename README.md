@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/austin-barrow/)
 
-## I'm an Aerospace and Software Engineer
+## I'm an Aerospace Software Engineer
 
 - 🧑‍🏫 I am currently studying for my Master's in Computer Science from Georgia Institute of Technology.
 - 🚀 I graduated with a Bachelor's in Aerospace Engineering and double minor in Computer Science and Mathematics from
