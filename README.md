@@ -7,7 +7,7 @@
 - 🧑‍🏫 I am currently studying for my Master's in Computer Science from Georgia Institute of Technology.
 - 🚀 I graduated with a Bachelor's in Aerospace Engineering and double minor in Computer Science and Mathematics from
   Purdue University.
-- 👷 I’m currently an R&D Verification Engineer at Ansys Government Initiatives.
+- 👷 I’m currently an MLE at Ensemble Space Labs. I am an Ex-MLE at Ansys Government Initiatives.
 - ⚡ Fun fact: I know how to play piano and the alto sax!
 
 <!-- ### Languages and Tools
